@@ -595,5 +595,12 @@
     "type": "text",
     "placeholders_order": [],
     "placeholders": {}
+  },
+  "no_subscriptions_message": "Tippen Sie unten auf die Schaltfläche \"Discovery\" oder verwenden Sie die Suchleiste oben, um Ihren ersten Podcast zu finden",
+  "@no_subscriptions_message": {
+    "description": "Displayed on the library tab when the user has no subscriptions",
+    "type": "text",
+    "placeholders_order": [],
+    "placeholders": {}
   }
 }
